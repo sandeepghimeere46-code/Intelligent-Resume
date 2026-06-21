@@ -1,0 +1,16 @@
+Intelligent Resume Builder — Now Available
+
+We're excited to bring you Intelligent Resume Builder: an AI-powered resume and cover letter app designed from the ground up to work well for everyone, including blind and low-vision users.
+
+What you can do:
+- Generate a complete, professional resume with AI, in your choice of 10 formats: PDF, DOCX, RTF, TXT, HTML, ODT, DOC, Markdown, XML, or JSON Resume
+- Watch your resume get written in real time with live AI streaming
+- Use the AI Live Editor to update any detail with a plain text instruction, no forms required
+- Get an AI ATS Score and Feedback report to see how applicant-tracking software will read your resume
+- Generate a matching AI Cover Letter, with tone, hiring manager name, and key achievements built in
+- Have any resume or letter read aloud using built-in text-to-speech
+- Pick your own AI provider: Gemini, OpenAI, Groq, or OpenRouter
+- Write your resume in English or any custom language you choose
+- Back up and restore all your resumes in one tap
+
+Intelligent Resume Builder is built by Open Vision Engineering, with accessibility treated as a first-class feature, not an afterthought.
